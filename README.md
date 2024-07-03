@@ -3,7 +3,8 @@
 #### I am the Quality Manager for Naval Undersea Warfare Center
 
 
-I work at NUWC Division Newport as the Periscopes Quality Manager
+I work at NUWC Division Newport as the Periscopes Quality Manager.
+
 I am almost complete with my Masters in Applied Data Science at the University of San Diego.
 
 
