@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Hi there 👋, My name is Verity Pierson
+### My name is Verity Pierson
 #### I am the Quality Manager for Naval Undersea Warfare Center
 ![I am the Quality Manager for Naval Undersea Warfare Center]
 
