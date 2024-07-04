@@ -11,7 +11,7 @@ I am almost complete with my Masters in Applied Data Science at the University o
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="http://www.w3.org/2000/svg"title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="[http://github.com/devicons/devicon/blob/master/icons/www.w3.org/2000/svg](https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg)"title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
 </div>
 
 Skills: Python / R / HTML /
