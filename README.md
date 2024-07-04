@@ -2,9 +2,7 @@
 ##### I am the Quality Manager for Naval Undersea Warfare Center
 
 
-I work at NUWC Division Newport as the Periscopes Quality Manager.
-
-I am almost complete with my Masters in Applied Data Science at the University of San Diego.
+I work at NUWC Division Newport as the Periscopes Quality Manager. I am almost complete with my Masters in Applied Data Science at the University of San Diego.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -12,7 +10,6 @@ I am almost complete with my Masters in Applied Data Science at the University o
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle"  alt="Kaggle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="Python" width"40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40/>nbsp;
 </div>
