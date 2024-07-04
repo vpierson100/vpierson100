@@ -15,6 +15,7 @@ I work at NUWC Division Newport as the Periscopes Quality Manager. I am almost c
 </div>
 
 
+
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/verity-pierson-51531b3a/)
 
 
